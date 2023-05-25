@@ -3,5 +3,5 @@ import { defineConfig } from "vite";
 import cloudflare from "solid-start-cloudflare-pages";
 
 export default defineConfig({
-  plugins: [solid(cloudflare({}))],
+  plugins: [solid({adapter: cloudflare({})})],
 });
