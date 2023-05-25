@@ -7,6 +7,7 @@ export default function Home() {
       </h1>
       <input type="color" style="appearance:none;"/>
       <input type="color" style="appearance:none;"/>
+      Test
     </main>
   );
 }
