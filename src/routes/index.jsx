@@ -1,4 +1,3 @@
-import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main class="text-center mx-auto text-gray-700 p-4">
@@ -7,7 +6,6 @@ export default function Home() {
       </h1>
       <input type="color" style="appearance:none;"/>
       <input type="color" style="appearance:none;"/>
-      Test
     </main>
   );
 }
