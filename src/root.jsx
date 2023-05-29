@@ -26,6 +26,8 @@ export default function Root() {
         <Title>Constrast Planner</Title>
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9829578239251426"
+     crossorigin="anonymous"></script>
       </Head>
       <Body>
         <Suspense>
